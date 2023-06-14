@@ -1,0 +1,29 @@
+  
+  .text-dark {
+    color: #333;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .p-3 {
+    padding: 1rem;
+  }
+  
+  .bg-light {
+    background-color: #f8f9fa;
+  }
+  
+  .mr-3 {
+    margin-right: 0.75rem;
+  }
+  
+  .mb-0 {
+    margin-bottom: 0;
+  }
+  
+  span:hover {
+    color: #ff6f00;
+  }
+  

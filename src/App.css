@@ -2,6 +2,14 @@
   text-align: center;
 }
 
+.Home{
+  height: 80%;
+  background-color: #61dafb;
+  margin-left: 10%;
+  margin-right: 10%;
+
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
